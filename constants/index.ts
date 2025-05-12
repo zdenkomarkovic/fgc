@@ -124,7 +124,7 @@ export const testimonialData: TestimonialData[] = [
 
 export interface Cards1Data {
   id: number;
-  icon: IconType;
+  icon: string;
   title: string;
   text: string;
 }

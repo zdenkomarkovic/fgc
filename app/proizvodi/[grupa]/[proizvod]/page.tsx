@@ -19,8 +19,8 @@ const Page = () => {
         <ArrowLeftIcon className="text-primary" /> Nazad
       </Link>
       <h2 className="">{proizvodData?.title}</h2>
-      <div className="flex gap-8 items-center">
-        <div className="w-2/3 space-y-2">
+      <div className="flex flex-col md:flex-row gap-8 items-center">
+        <div className="md:w-2/3 space-y-2">
           {proizvodData?.text.map((line, i) => {
             const isBold = i === 0 || i === 4;
             return (
