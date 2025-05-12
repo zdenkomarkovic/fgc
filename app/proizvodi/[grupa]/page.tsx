@@ -14,13 +14,13 @@ const Page = () => {
 
   return (
     <div>
-      <div className="container px-2 md:px-4 mx-auto py-24 space-y-12">
+      <div className="container px-2 md:px-4 mx-auto pt-24 pb-10 md:pb-24 space-y-6 md:space-y-12">
         {" "}
         <Link href={`/proizvodi`} className="flex gap-2 items-center">
           <ArrowLeftIcon className="text-primary" /> Nazad
         </Link>
         <h2 className="">{grupaData?.title}</h2>
-        <div className="grid md:grid-cols-4 gap-4 md:gap-8">
+        <div className="grid md:grid-cols-4 gap-6 md:gap-8">
           {grupaData?.products.map((product, i) => {
             return (
               <Link key={i} href={`/proizvodi/${grupa}/${product.slug}`}>

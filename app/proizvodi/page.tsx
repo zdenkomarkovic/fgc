@@ -8,11 +8,11 @@ import { ArrowLeftIcon } from "lucide-react";
 
 const Page = () => {
   return (
-    <div className="py-24 container mx-auto px-2 md:px-4 space-y-10">
+    <div className="pt-24 pb-10 md:pb-24 container mx-auto px-2 md:px-4 md:space-y-10">
       <Link href={`/`} className="flex gap-2 items-center">
         <ArrowLeftIcon className="text-primary" /> Nazad
       </Link>
-      <div className="w-4/5 mx-auto flex flex-col-reverse md:flex-row items-center gap-24">
+      <div className="md:w-4/5 mx-auto flex flex-col-reverse md:flex-row items-center md:gap-24">
         <div className="flex flex-col gap-10">
           <h2 className=" text-primary">Luminos Premium</h2>
           <p>
@@ -31,7 +31,7 @@ const Page = () => {
           alt="luminos rasveta"
         />
       </div>
-      <div className="grid md:grid-cols-4 auto-rows-fr gap-6 pb-20 border-b border-primary">
+      <div className="grid md:grid-cols-4 auto-rows-fr gap-6 mt-6 pb-10 md:pb-20 border-b border-primary">
         {proizvodi.slice(0, 4).map((item, i) => {
           return (
             <Link key={i} href={`/proizvodi/${item.slug}`}>
@@ -63,7 +63,7 @@ const Page = () => {
         })}
       </div>
 
-      <div className=" py-6 w-4/5 mx-auto flex flex-col-reverse md:flex-row items-center gap-24">
+      <div className=" py-6 md:w-4/5 mx-auto flex flex-col-reverse md:flex-row items-center gap-10 md:gap-24">
         <div className="flex flex-col gap-10">
           <h2 className=" text-primary">Luminos Ambienta</h2>
           <p>

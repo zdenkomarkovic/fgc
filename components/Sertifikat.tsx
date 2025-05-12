@@ -4,14 +4,14 @@ import React from "react";
 const Sertifikat = () => {
   return (
     <div className=" bg-muted-foreground">
-      <div className="container px-2 md:px-24 mx-auto py-20 flex flex-col md:flex-row items-center gap-20">
+      <div className="container px-2 md:px-24 mx-auto py-8 md:py-20 flex flex-col-reverse md:flex-row items-center gap-8 md:gap-20">
         <Image
           src={"/tuv-austria-certified.jpg"}
           width={800}
           height={800}
           alt="led rasveta"
         />
-        <div className="space-y-20">
+        <div className="space-y-8 md:space-y-20">
           <h2>ISO 9001:2015, ISO 14001:2015, ISO 45001:2018</h2>
           <p>
             Pored dugogodišnje garancije,

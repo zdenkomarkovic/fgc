@@ -16,12 +16,12 @@ const Page = () => {
   const images = proizvodData?.images;
 
   return (
-    <div className=" container px-2 md:px-4 mx-auto py-24 space-y-10">
+    <div className=" container px-2 md:px-4 mx-auto pt-24 pb-10 space-y-6 md:space-y-10">
       <Link href={`/proizvodi/${grupa}`} className="flex gap-2 items-center">
         <ArrowLeftIcon className="text-primary" /> Nazad
       </Link>
       <h2 className="">{proizvodData?.title}</h2>
-      <div className="flex flex-col-reverse md:flex-row gap-8 items-center">
+      <div className="flex flex-col-reverse md:flex-row gap-4 md:gap-8 items-center">
         <div className="md:w-2/3 space-y-2">
           {proizvodData?.text.map((line, i) => {
             const isBold = i === 0 || i === 4;

@@ -3,9 +3,9 @@ import React from "react";
 
 const page = () => {
   return (
-    <div className=" py-20 space-y-7">
-      <div className="container px-2 md:px-4 mx-auto space-y-7">
-        <h1 className="text-center text-primary font-bold text-7xl py-3">
+    <div className=" pt-20 pb-6 md:pb-20 space-y-7">
+      <div className="container px-2 md:px-4 mx-auto space-y-3 md:space-y-7">
+        <h1 className="text-center text-primary font-bold text-4xl md:text-7xl py-3">
           FGC DOO
         </h1>
         <p className="first-letter:pl-6">

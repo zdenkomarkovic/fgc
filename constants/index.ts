@@ -463,7 +463,12 @@ export const proizvodi: Proizvodi[] = [
         title: "LED ulična svetiljka LPU-30",
         slug: "LED-ulicna-svetiljka-LPU-30",
         image: "/LPU-30.png",
-        images: [],
+        images: [
+          "/Park-K.-Monten.jpg",
+          "/Park-Kemala-M.jpg",
+          "/Park-Kemala-Montena.jpg",
+          "/Parkovska.jpg",
+        ],
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
@@ -486,7 +491,7 @@ export const proizvodi: Proizvodi[] = [
         title: "LED ulična svetiljka LPU-31A",
         slug: "LED-ulicna-svetiljka-LPU-31A",
         image: "/LPU-31A.png",
-        images: [],
+        images: ["/LPU-31A-Braon.jpg", "/1729752519898.jpg"],
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
@@ -509,7 +514,11 @@ export const proizvodi: Proizvodi[] = [
         title: "LED ulična svetiljka LPU-32D",
         slug: "LED-ulicna-svetiljka-LPU-32D",
         image: "/LPU-32D.png",
-        images: [],
+        images: [
+          "/20241027_115448-scaled.jpg",
+          "/20241027_115551-scaled.jpg",
+          "/O.Centar-Sa-scaled.jpg",
+        ],
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
@@ -532,7 +541,14 @@ export const proizvodi: Proizvodi[] = [
         title: "LED ulična svetiljka LP-U34F",
         slug: "LED-ulicna-svetiljka-LP-U34F",
         image: "/LP-U34F.png",
-        images: [],
+        images: [
+          "/Dobrinja-0.jpg",
+          "/Dobrinja-00.jpg",
+          "/1729752519493.jpg",
+          "/1729752519416.jpg",
+          "/1729752519377.jpg",
+          "/1729752519329.jpg",
+        ],
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
@@ -555,7 +571,16 @@ export const proizvodi: Proizvodi[] = [
         title: "LED ulična svetiljka LP-U35V",
         slug: "LED-ulicna-svetiljka-LP-U35V",
         image: "/LP-U35V.png",
-        images: [],
+        images: [
+          "/Tuzla-Korzo.jpg",
+          "/Tuzla-Korzo-000.jpg",
+          "/Tuzla-Korzo-00.jpg",
+          "/Tuzla-Korzo-0.jpg",
+          "/Gorazde.jpg",
+          "/Gorazde-Staro-stanje.jpg",
+          "/Gorazde-novo-stanje-1.jpg",
+          "/Gorazde-00.jpg",
+        ],
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",

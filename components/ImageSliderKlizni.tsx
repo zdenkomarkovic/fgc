@@ -26,7 +26,9 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
       }
     };
   }, [emblaMainApi, activeIndex]);
-
+  if (!images || images.length === 0) {
+    return null;
+  }
   const scrollTo = useCallback(
     (index: number) => {
       if (emblaMainApi) {
