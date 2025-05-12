@@ -63,7 +63,7 @@ export default function Contact() {
         </h1>
         <div className="grid grid-cols-1 md:grid-cols-2 items-center gap-10">
           <div className=" mx-2 md:mx-20">
-            <div className="space-y-3 md:space-y-10 text-lg md:text-2xl">
+            <div className="space-y-3 md:space-y-7 text-lg md:text-2xl">
               <a
                 href="tel:+38162201250"
                 className="py-[7px] flex border-b-[1px] border-primary"
@@ -133,7 +133,6 @@ export default function Contact() {
                 </button>
               </a>
             </div>
-            <div className="pl-4 md:pl-7 pt-4 lg:pt-12"></div>
           </div>
           <div className="mx-2 md:mx-20 rounded-3xl ">
             <Form {...form}>
