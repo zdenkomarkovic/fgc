@@ -22,8 +22,8 @@ export default function Footer() {
               </li>
 
               <li>
-                <Link href="/usluge" className=" hover:text-primary">
-                  Usluge
+                <Link href="/proizvodi" className=" hover:text-primary">
+                  Proizvodi
                 </Link>
               </li>
 
@@ -38,14 +38,14 @@ export default function Footer() {
           <div className="space-y-1 md:space-y-3 pb-5 md:pb-0">
             <div>
               {" "}
-              <a href="tel:+38160 000 000">
-                <p className="hover:text-primary">Telefon: +38160 000 000</p>
+              <a href="tel:+38162201250">
+                <p className="hover:text-primary">Telefon: +38162 201 250</p>
               </a>
             </div>
             <div>
               <a href="mailto:" target={"_blank"}>
                 <p className="text-wrap  hover:text-primary">
-                  Email: starter mail
+                  Email: office@fgc.rs
                 </p>
               </a>
             </div>
