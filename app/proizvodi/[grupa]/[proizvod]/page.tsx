@@ -8,7 +8,7 @@ import { useParams } from "@/node_modules/next/navigation";
 import React from "react";
 import { ArrowLeftIcon } from "lucide-react";
 
-const page = () => {
+const Page = () => {
   const { grupa, proizvod } = useParams();
   const grupaData = proizvodi.find((g) => g.slug === grupa);
   const proizvodData = grupaData?.products.find((p) => p.slug === proizvod);
@@ -70,4 +70,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
