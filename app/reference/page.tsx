@@ -1,22 +1,27 @@
+import BackgroundImage from "@/components/BackgroundImage";
 import React from "react";
 
 const page = () => {
   return (
-    <div className="container px-2 md:px-4 mx-auto py-24 space-y-10">
-      <h2>
-        Spisak objekata i javnih površina koje su opremljene našom Led rasvetom
-      </h2>
-      <div className="space-y-3 px-52">
-        {reference.map((item, i) => {
-          return (
-            <p
-              key={i}
-              className="hover:text-primary hover:scale-105 transform origin-left cursor-pointer"
-            >
-              {item}
-            </p>
-          );
-        })}
+    <div className="">
+      <BackgroundImage />
+      <div className="container px-2 md:px-4 mx-auto py-6 md:py-16 space-y-5 md:space-y-10">
+        <h2>
+          Spisak objekata i javnih površina koje su opremljene našom Led
+          rasvetom
+        </h2>
+        <div className="space-y-1 md:space-y-3 md:px-52">
+          {reference.map((item, i) => {
+            return (
+              <p
+                key={i}
+                className="hover:text-primary hover:scale-105 transform origin-left cursor-pointer"
+              >
+                {item}
+              </p>
+            );
+          })}
+        </div>
       </div>
     </div>
   );
