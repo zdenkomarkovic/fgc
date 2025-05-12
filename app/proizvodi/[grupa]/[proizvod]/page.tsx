@@ -54,8 +54,8 @@ const Page = () => {
           );
         })}
       </div>
-      <div className="grid md:grid-cols-4 gap-4">
-        <ImageSliderKlizni images={images} />
+      <div className="">
+        <ImageSliderKlizni images={images || []} />
       </div>
     </div>
   );
