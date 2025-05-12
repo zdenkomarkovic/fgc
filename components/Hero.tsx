@@ -11,7 +11,7 @@ import Autoplay from "embla-carousel-autoplay";
 
 import Hero1 from "../public/22892967_6689882.jpg";
 import Hero2 from "../public/2149049660.jpg";
-import Hero3 from "../public/3853.jpg";
+import Hero3 from "../public/2347.jpg";
 
 import Image from "next/image";
 import { ArrowRightIcon } from "lucide-react";
@@ -61,10 +61,10 @@ const Hero = () => {
         </CarouselContent>
       </Carousel>
       <div className="relative flex flex-col gap-6 w-full items-center justify-center text-white z-[1] text-center">
-        <h1 className="text-primary md:text-[4rem] text-xl font-bold max-w-[900px] leading-[1.2] px-4">
+        <h1 className="text-primary md:text-[4rem] text-3xl font-bold max-w-[900px] leading-[1.2] px-4">
           FGC - LED rasveta za javne i poslovne prostore
         </h1>
-        <h2 className="text-background font-medium md:text-[1.5rem] text-md max-w-[800px] px-4">
+        <h2 className="text-background font-medium md:text-[1.5rem] max-w-[800px] px-4">
           Ušteda energije, inovativna LED tehnologija i pametna rešenja za
           gradove.
         </h2>

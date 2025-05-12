@@ -4,7 +4,9 @@ import React from "react";
 const page = () => {
   return (
     <div className="">
-      <BackgroundImage />
+      <BackgroundImage
+        img={"469527209_970434601773753_8674334394693392864_n-600x600.jpg"}
+      />
       <div className="container px-2 md:px-4 mx-auto py-6 md:py-16 space-y-5 md:space-y-10">
         <h2>
           Spisak objekata i javnih površina koje su opremljene našom Led

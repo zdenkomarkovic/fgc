@@ -63,7 +63,7 @@ const page = () => {
           kvalitet usluge, pouzdanost, poverenje i fleksibilnost.
         </p>
       </div>
-      <BackgroundImage />
+      <BackgroundImage img={"12519.jpg"} />
     </div>
   );
 };

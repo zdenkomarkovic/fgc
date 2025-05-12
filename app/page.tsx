@@ -14,7 +14,7 @@ export default function Home() {
       <Cards1 title={"Od nas možete očekivati"} data={cards1Data} />
       <Sertifikat />
       <Statistika />
-      <BackgroundImage />
+      <BackgroundImage img={"2147786062.jpg"} />
     </div>
   );
 }
