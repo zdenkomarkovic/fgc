@@ -7,11 +7,13 @@ import Link from "@/node_modules/next/link";
 import { useParams } from "@/node_modules/next/navigation";
 import React from "react";
 import { ArrowLeftIcon } from "lucide-react";
+import ImageSliderKlizni from "@/components/ImageSliderKlizni";
 
 const Page = () => {
   const { grupa, proizvod } = useParams();
   const grupaData = proizvodi.find((g) => g.slug === grupa);
   const proizvodData = grupaData?.products.find((p) => p.slug === proizvod);
+  const images = proizvodData?.images;
 
   return (
     <div className=" container px-2 md:px-4 mx-auto py-24 space-y-10">
@@ -53,18 +55,7 @@ const Page = () => {
         })}
       </div>
       <div className="grid md:grid-cols-4 gap-4">
-        {proizvodData?.images.map((img, i) => {
-          return (
-            <Image
-              key={i}
-              src={img}
-              width={500}
-              height={500}
-              alt="led rasveta"
-              className="w-full aspect-[1/1] object-cover"
-            />
-          );
-        })}
+        <ImageSliderKlizni images={images} />
       </div>
     </div>
   );
