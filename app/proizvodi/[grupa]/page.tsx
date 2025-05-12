@@ -20,7 +20,7 @@ const Page = () => {
           <ArrowLeftIcon className="text-primary" /> Nazad
         </Link>
         <h2 className="">{grupaData?.title}</h2>
-        <div className="grid grid-cols-4 gap-8">
+        <div className="grid md:grid-cols-4 gap-4 md:gap-8">
           {grupaData?.products.map((product, i) => {
             return (
               <Link key={i} href={`/proizvodi/${grupa}/${product.slug}`}>

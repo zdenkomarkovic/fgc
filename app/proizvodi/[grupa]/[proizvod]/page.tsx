@@ -31,7 +31,7 @@ const Page = () => {
           })}
         </div>
         <Image
-          src={proizvodData?.image}
+          src={proizvodData!.image}
           width={500}
           height={500}
           alt="led rasveta"

@@ -4,7 +4,7 @@ import React from "react";
 const Sertifikat = () => {
   return (
     <div className=" bg-muted-foreground">
-      <div className="container px-2 md:px-24 mx-auto py-20 flex items-center gap-20">
+      <div className="container px-2 md:px-24 mx-auto py-20 flex flex-col md:flex-row items-center gap-20">
         <Image
           src={"/tuv-austria-certified.jpg"}
           width={800}

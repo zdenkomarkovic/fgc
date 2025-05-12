@@ -12,7 +12,7 @@ const Page = () => {
       <Link href={`/`} className="flex gap-2 items-center">
         <ArrowLeftIcon className="text-primary" /> Nazad
       </Link>
-      <div className="w-4/5 mx-auto flex items-center gap-24">
+      <div className="w-4/5 mx-auto flex flex-col-reverse md:flex-row items-center gap-24">
         <div className="flex flex-col gap-10">
           <h2 className=" text-primary">Luminos Premium</h2>
           <p>
@@ -63,7 +63,7 @@ const Page = () => {
         })}
       </div>
 
-      <div className=" py-6 w-4/5 mx-auto flex items-center gap-24">
+      <div className=" py-6 w-4/5 mx-auto flex flex-col-reverse md:flex-row items-center gap-24">
         <div className="flex flex-col gap-10">
           <h2 className=" text-primary">Luminos Ambienta</h2>
           <p>
