@@ -7,7 +7,7 @@ import Image from "@/node_modules/next/image";
 import Link from "@/node_modules/next/link";
 import { ArrowLeftIcon } from "lucide-react";
 
-const page = () => {
+const Page = () => {
   const { grupa } = useParams();
 
   const grupaData = proizvodi.find((g) => g.slug === grupa);
@@ -52,4 +52,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;

@@ -6,7 +6,7 @@ import React from "react";
 import { motion } from "framer-motion";
 import { ArrowLeftIcon } from "lucide-react";
 
-const page = () => {
+const Page = () => {
   return (
     <div className="py-24 container mx-auto px-2 md:px-4 space-y-10">
       <Link href={`/`} className="flex gap-2 items-center">
@@ -120,4 +120,4 @@ const page = () => {
   );
 };
 
-export default page;
+export default Page;
