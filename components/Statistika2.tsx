@@ -20,7 +20,7 @@ const Statistika2 = () => {
         </div>
         <div>
           <p className="text-4xl md:text-5xl font-bold text-primary">
-            {inView && <CountUp end={5} duration={5} />}
+            {inView && <CountUp end={5} duration={5} suffix="+" />}
           </p>
           <p className="mt-2">godina garancije za naše proizvode</p>
         </div>

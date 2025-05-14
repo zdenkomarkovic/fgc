@@ -17,7 +17,7 @@ const Statistika = () => {
           <p className="text-4xl md:text-5xl font-bold text-primary">
             {inView && <CountUp end={100} duration={3} suffix="+" />}
           </p>
-          <p className="mt-2">Objekata i Javnih površina opremljeno</p>
+          <p className="mt-2">Objekata i javnih površina opremljeno</p>
         </div>
         <div>
           <p className="text-4xl md:text-5xl font-bold text-primary">

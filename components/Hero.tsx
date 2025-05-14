@@ -9,9 +9,11 @@ import {
 import Fade from "embla-carousel-fade";
 import Autoplay from "embla-carousel-autoplay";
 
-import Hero1 from "../public/22892967_6689882.jpg";
-import Hero2 from "../public/2149049660.jpg";
-import Hero3 from "../public/2347.jpg";
+// import Hero1 from "../public/22892967_6689882.jpg";
+import Hero1 from "../public/Cvetnjak Čačak 5.jpg";
+import Hero2 from "../public/Bazen Obrenovac 2.jpg";
+// import Hero3 from "../public/2347.jpg";
+import Hero3 from "../public/Narodni muzej Čačak 2.jpg";
 
 import Image from "next/image";
 import { ArrowRightIcon } from "lucide-react";
@@ -35,36 +37,36 @@ const Hero = () => {
           Fade(),
         ]}
       >
-        {/* <div className="absolute top-0 left-0 w-full h-full bg-black/50 z-[1]" /> */}
+        <div className="absolute top-0 left-0 w-full h-full bg-black/20 z-[1]" />
         <CarouselContent>
           <CarouselItem>
             <Image
               src={Hero1}
-              alt="Moderna dnevna soba"
+              alt="javna led rasveta"
               className="w-full h-[100dvh] object-cover"
             />
           </CarouselItem>
           <CarouselItem>
             <Image
               src={Hero2}
-              alt="Elegantna dnevna soba"
+              alt="javna led rasveta"
               className="w-full h-[100dvh] object-cover"
             />
           </CarouselItem>
           <CarouselItem>
             <Image
               src={Hero3}
-              alt="Luksuzni plakar"
+              alt="javna led rasveta"
               className="w-full h-[100dvh] object-cover"
             />
           </CarouselItem>
         </CarouselContent>
       </Carousel>
       <div className="relative flex flex-col gap-6 w-full items-center justify-center text-white z-[1] text-center">
-        <h1 className="text-primary md:text-[4rem] text-3xl font-bold max-w-[900px] leading-[1.2] px-4">
+        <h1 className=" md:text-[4rem] text-3xl font-bold max-w-[900px] leading-[1.2] px-4">
           FGC - LED rasveta za javne i poslovne prostore
         </h1>
-        <h2 className="text-background font-medium md:text-[1.5rem] max-w-[800px] px-4">
+        <h2 className="text-muted font-medium md:text-[1.5rem] max-w-[800px] px-4">
           Ušteda energije, inovativna LED tehnologija i pametna rešenja za
           gradove.
         </h2>

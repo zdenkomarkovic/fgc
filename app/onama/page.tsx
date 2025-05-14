@@ -1,4 +1,5 @@
 import BackgroundImage from "@/components/BackgroundImage";
+import Link from "@/node_modules/next/link";
 import React from "react";
 
 const page = () => {
@@ -19,21 +20,28 @@ const page = () => {
         <p className="first-letter:pl-6">
           Od 2023 sredine godine kompanija FGC doo postaje generalni zastupnik
           za Republiku Srbiju,{" "}
-          <span className="text-primary font-bold">LED rasvete</span> kompanije
-          Luminos iz BiH. Analizirajući tržište Srbije, zajedničkim
-          akativnostima menadžmenta obe kompanije ustanovilo se da postoji
-          veliki potencijal za plasman proizvoda visokog kvaliteta iz oblasti
-          rasvete. Proizvodi kompanije Luminos spadaju upravo u red
-          visokokvalitetnih proizvoda, ali sa izuzetno prihvatljivom cenom.
-          Zahvaljujući činjenici da zastupamo proizvod koji je{" "}
+          <span className="text-primary font-bold">LED rasvete </span>
+          kompanije Luminos iz BiH. Analizirajući tržište Srbije, zajedničkim
+          aktivnostima menadžmenta obe kompanije ustanovilo se da postoji veliki
+          potencijal za plasman proizvoda visokog kvaliteta iz oblasti rasvete.
+          Proizvodi kompanije Luminos spadaju upravo u red visokokvalitetnih
+          proizvoda, ali sa izuzetno prihvatljivom cenom. Zahvaljujući činjenici
+          da zastupamo proizvod koji je{" "}
           <span className="text-primary font-bold">vrhunskog kvaliteta</span>, a
           po <span className="text-primary font-bold">pristupačnoj ceni</span>,
           i sa veoma kratkim rokom isporuke, naša kompanija je od početka
           operativnih aktivnosti na teritoriji Republike Srbije, uspela da
-          uspostavi saradnju sa desetinama različitih klijenata, iz različitih
-          delova Republike Srbije. Zahvaljući ovome, LED rasveta kompanije
-          Luminos, u Srbiji, nalazi se na mnogim mestima, o čemu najbolje govori
-          naša referentna lista projekata koji su urađeni.
+          uspostavi saradnju sa desetinama klijenata, iz svih delova Republike
+          Srbije. Zahvaljujući ovome, LED rasveta kompanije Luminos, u Srbiji,
+          nalazi se na mnogim mestima, o čemu najbolje govori naša{" "}
+          <Link
+            href={"/reference"}
+            className="font-bold text-primary underline"
+          >
+            {" "}
+            referentna lista
+          </Link>{" "}
+          projekata koji su urađeni.
         </p>
         <p className="first-letter:pl-6">
           Težeći stalnom razvoju, adekvatnom uobličavanju i prilagođavanju
@@ -58,12 +66,12 @@ const page = () => {
         <p className="first-letter:pl-6">
           FGC je pažljivo kreirana kompanija koja nastoji zadovoljiti potrebu za
           očuvanjem, odnosno rastom imovine tokom vremena, a ujedno pružiti
-          klijentu najbolju infrastrukturu za obavljanje transakcija pri
-          realizaciji poslova. Osnovne odlike naših usluga jesu pre svega
-          kvalitet usluge, pouzdanost, poverenje i fleksibilnost.
+          klijentu najbolju infrastrukturu pri realizaciji poslova. Osnovne
+          odlike naših usluga jesu pre svega kvalitet usluge, pouzdanost,
+          poverenje i fleksibilnost.
         </p>
       </div>
-      <BackgroundImage img={"12519.jpg"} />
+      <BackgroundImage img={"Svečana sala Beograd.jpg"} />
     </div>
   );
 };

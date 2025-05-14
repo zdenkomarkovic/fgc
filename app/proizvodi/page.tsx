@@ -17,11 +17,11 @@ const Page = () => {
           <h2 className=" text-primary">Luminos Premium</h2>
           <p>
             Svi proizvodi pod brendom „Luminos premium“ imaju najmanje 5 godina
-            garancije i predviđen radni vek duži od 100.000 sati. Izrađeni su od
-            najkvalitetnijih delova renomiranih svetskih proizvođača, uz punu
-            zaštitu od spoljašnjih uticaja. Sve karakteristike proizvoda
-            testirane su u sopstvenim laboratorijama, a potvrđene sertifikatima
-            priznatih ustanova.
+            garancije i predviđen radni vek duži od 100.000 RADNIH sati.
+            Izrađeni su od najkvalitetnijih delova renomiranih svetskih
+            proizvođača, uz punu zaštitu od spoljašnjih uticaja. Sve
+            karakteristike proizvoda testirane su u sopstvenim laboratorijama, a
+            potvrđene sertifikatima priznatih ustanova.
           </p>
         </div>
         <Image
@@ -67,14 +67,15 @@ const Page = () => {
         <div className="flex flex-col gap-10">
           <h2 className=" text-primary">Luminos Ambienta</h2>
           <p>
-            Proizvodi iz brenda „Luminos Ambienta“ razvijeni su u Srbiji i
-            izrađeni isključivo od najkvalitetnijih komponenti. Kvalitet svakog
-            proizvoda potvrđuje garancija od tri godine. U ponudi se nalazi 18
-            različitih vrsta ambijentalnih LED panela snage od 3 do 24 W, u
-            kvadratnim i okruglim kućištima, ugradne i nadgradne varijante. Uz
-            ove proizvode imate sigurnost stalne dostupnosti na lageru, stručnu
-            podršku proizvodnog tima za sve upite, reklamacije i servis, kao i
-            cenu koja je konkurentna i prilagođena krajnjim korisnicima.
+            Proizvodi iz brenda „Luminos Ambienta“ razvijeni su u Bosni I
+            Hercegovini i izrađeni isključivo od najkvalitetnijih komponenti.
+            Kvalitet svakog proizvoda potvrđuje garancija od tri do pet godina.
+            U ponudi se nalazi 18 različitih vrsta ambijentalnih LED panela
+            snage od 3 W do 24 W, u kvadratnim i okruglim kućištima, ugradne i
+            nadgradne varijante. Uz ove proizvode imate sigurnost stalne
+            dostupnosti na lageru, stručnu podršku proizvodnog tima za sve
+            upite, reklamacije i servis, kao i cenu koja je konkurentna i
+            prilagođena krajnjim korisnicima.
           </p>
         </div>
         <Image

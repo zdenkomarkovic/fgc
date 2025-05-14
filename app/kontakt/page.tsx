@@ -65,12 +65,12 @@ export default function Contact() {
           <div className=" mx-2 md:mx-20">
             <div className="space-y-3 md:space-y-7 text-lg md:text-2xl">
               <a
-                href="tel:+38162201250"
+                href="tel:+381631123104"
                 className="py-[7px] flex border-b-[1px] border-primary"
               >
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
                   <FaPhone className="text-[20px] lg:text-[30px]" />
-                  +38162 201 250
+                  +381 063 1123104
                 </button>
               </a>
               <a
@@ -79,29 +79,29 @@ export default function Contact() {
               >
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
                   <FaPhone className="text-[20px] lg:text-[30px]" />
-                  +38121 301 7111
+                  +381 21 301 7111
                 </button>
               </a>
               <a
-                href="viber://chat?number=%2B38162201250"
+                href="viber://chat?number=%2B381631123104"
                 className="py-[7px] flex border-b-[1px] border-primary"
               >
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
                   <FaViber className="text-[28px] lg:text-[35px] p-1 bg-purple-600 text-white rounded-xl rounde" />{" "}
-                  +38162 201 250
+                  +381 063 1123104
                 </button>
               </a>
               <a
-                href="https://wa.me/38162201250"
+                href="https://wa.me/381631123104"
                 className="py-[7px] flex border-b-[1px] border-primary"
               >
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
                   <FaWhatsappSquare className="text-[30px] lg:text-[35px] rounded-2xl text-green-700 " />{" "}
-                  +38162 201 250
+                  +381 063 1123104
                 </button>
               </a>
               <a
-                href="mailto:"
+                href="mailto:office@fgc.rs"
                 className="py-[7px] flex border-b-[1px] border-primary"
               >
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
@@ -109,7 +109,7 @@ export default function Contact() {
                 </button>
               </a>
               <a
-                href=""
+                href="https://www.instagram.com/fgc_luminos/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="py-[7px] flex border-b-[1px] border-primary "
@@ -117,7 +117,7 @@ export default function Contact() {
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
                   {" "}
                   <FaInstagram className=" text-[28px] lg:text-[30px]" />
-                  manikam_starter
+                  fgc_luminos
                 </button>
               </a>
               <a
@@ -129,7 +129,7 @@ export default function Contact() {
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
                   {" "}
                   <Facebook className=" text-[28px] lg:text-[30px]" />
-                  Manikam Starter
+                  fgc_luminos
                 </button>
               </a>
             </div>
@@ -225,7 +225,7 @@ export default function Contact() {
           </div>
         </div>
         <iframe
-          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d22473.16180040822!2d19.832091374008172!3d45.24485601803212!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475b100e3cea3249%3A0x49eefcbd76f184f8!2sRavani%C4%8Dka%209%2C%20Novi%20Sad%2021000!5e0!3m2!1sen!2srs!4v1747060311786!5m2!1sen!2srs"
+          src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d75587.75174035551!2d19.733870068479035!3d45.246849818848474!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x475b0fd0d608d789%3A0xfc5384057a6963db!2sPodunavska%2066%2C%20Novi%20Sad!5e0!3m2!1sen!2srs!4v1747179198366!5m2!1sen!2srs"
           width="600"
           height="450"
           style={{ border: "0" }}

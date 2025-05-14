@@ -10,8 +10,8 @@ const About2 = () => {
       <div className="container px-2 md:px-4 py-10 md:py-24 mx-auto flex flex-col md:flex-row gap-6 md:gap-20 items-center">
         <div className=" md:w-2/3 space-y-3 md:space-y-8">
           <h2 className="">
-            FGC – Zvanični zastupnik Luminos rasvete za javne i poslovne
-            prostore
+            FGC – Zvanični zastupnik za teritoriju Republike Srbije Luminos
+            rasvete za javne i poslovne prostore
           </h2>
           <p className=" first-letter:pl-6">
             Firma FGC je ovlašćeni zastupnik renomiranog brenda Luminos, koji se
@@ -23,8 +23,8 @@ const About2 = () => {
           <p className=" first-letter:pl-6">
             Bez obzira da li opremate kancelarije, hale, tržne centre, škole,
             ulice ili parkove – FGC vam nudi kompletna rešenja prilagođena vašim
-            potrebama. Kroz saradnju sa domaćim proizvođačem Luminos,
-            garantujemo tehničku podršku, dostupnost robe i konkurentne cene.
+            potrebama. Kroz saradnju sa proizvođačem Luminos, garantujemo
+            tehničku podršku, dostupnost robe i konkurentne cene.
           </p>
           <Statistika2 />
         </div>
@@ -36,11 +36,11 @@ const About2 = () => {
           className="rounded-3xl overflow-hidden "
         >
           <Image
-            src={"/rasveta.jpg"}
+            src={"/Cvetnjak Čačak 10.jpg"}
             width={800}
             height={800}
             alt="slep puric cacak "
-            className="object-cover"
+            className="object-cover aspect-[1/1]"
           />
         </motion.div>
       </div>

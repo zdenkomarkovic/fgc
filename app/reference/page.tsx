@@ -1,17 +1,16 @@
 import BackgroundImage from "@/components/BackgroundImage";
+import ImageSliderKlizni from "@/components/ImageSliderKlizni";
 import React from "react";
 
 const page = () => {
   return (
     <div className="">
-      <BackgroundImage
-        img={"469527209_970434601773753_8674334394693392864_n-600x600.jpg"}
-      />
-      <div className="container px-2 md:px-4 mx-auto py-6 md:py-16 space-y-5 md:space-y-10">
+      <div className="container px-2 md:px-4 mx-auto py-6 md:py-24 space-y-5 md:space-y-10">
         <h2>
           Spisak objekata i javnih površina koje su opremljene našom Led
           rasvetom
         </h2>
+        <ImageSliderKlizni images={images} />
         <div className="space-y-1 md:space-y-3 md:px-52">
           {reference.map((item, i) => {
             return (
@@ -70,4 +69,58 @@ const reference = [
   "Proizvodnja plastike, Divi, mesto Tara",
   "Ulična rasveta, ulica Tekstilna, grad Prijepolje",
   "Stambeni blok Stadion, grad Prijepolje",
+];
+
+const images = [
+  "/Bazen Obrenovac 1.jpg",
+  "/Bazen Obrenovac 2.jpg",
+  "/Bazen Obrenovac 3.jpg",
+  "/Bazen Obrenovac 4.jpg",
+  "/Cerevicka skela 1.jpg",
+  "/Cerevicka skela 2.jpg",
+  "/Cerevicka skela 3.jpg",
+  "/Cerevicka skela 4.jpg",
+  "/Cerevicka skela 5.jpg",
+  "/Cvetnjak Čačak 1.jpg",
+  "/Cvetnjak Čačak 2.jpg",
+  "/Cvetnjak Čačak 3.jpg",
+  "/Cvetnjak Čačak 4.jpg",
+  "/Cvetnjak Čačak 5.jpg",
+  "/Cvetnjak Čačak 6.jpg",
+  "/Cvetnjak Čačak 7.jpg",
+  "/Cvetnjak Čačak 8.jpg",
+  "/Cvetnjak Čačak 9.jpg",
+  "/Cvetnjak Čačak 10.jpg",
+  "/Cvetnjak Čačak 11.jpg",
+  "/Lađevci hala.jpg",
+  "/Narodni muzej Čačak 1.jpg",
+  "/Narodni muzej Čačak 2.jpg",
+  "/Narodni muzej Čačak 3.jpg",
+  "/Narodni muzej Čačak 4.jpg",
+  "/Narodni muzej Čačak 5.jpg",
+  "/Narodni muzej Čačak 6.jpg",
+  "/Pantelej Niš 1.jpg",
+  "/Pantelej Niš 2.jpg",
+  "/Pantelej Niš 3.jpg",
+  "/Šećeranski park Zrenjanin.jpg",
+  "/Svečana sala Beograd.jpg",
+  "/Tomasevac 1.webp",
+  "/Tomasevac 2.webp",
+  "/Tomasevac 3.webp",
+  "/Tomaševac park 1.jpg",
+  "/Tomaševac park 2.jpg",
+  "/Tomaševac park 3.jpg",
+  "/Tomaševac park 4.jpg",
+  "/Tomaševac park 5.jpg",
+  "/Tomaševac park 6.jpg",
+  "/Zlatica.jpg",
+  "/Zrenjanin beli lampion 2.jpg",
+  "/Zrenjanin beli lampion.jpg",
+  "/Zrenjanin crni lampion 2.jpg",
+  "/Zrenjanin crni lampion.jpg",
+  "/Zrenjanin kej Begej.jpg",
+  "/Zrenjanin P.Drapšina 1.jpg",
+  "/Zrenjanin P.Drapšina 2.jpg",
+  "/Zrenjanin šetalište 1.webp",
+  "/Zrenjanin šetalište 2.webp",
 ];

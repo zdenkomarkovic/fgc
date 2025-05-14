@@ -176,7 +176,7 @@ export const cards1Data: Cards1Data[] = [
     id: 7,
     icon: "/icons8-standard-96.png",
     title: "",
-    text: "Led rasveta proizvedena po evropskim standardima",
+    text: "Led rasveta proizvedena po evropskim standardima.",
   },
 ];
 

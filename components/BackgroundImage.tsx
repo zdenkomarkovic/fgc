@@ -7,7 +7,7 @@ const BackgroundImage = ({ img }: { img: string }) => {
       <div className="absolute top-0 left-0 w-full h-full bg-black/20 z-[1]" />
       <Image
         src={`/${img}`}
-        alt="slep puric"
+        alt="rasveta"
         fill
         className="w-full h-full  object-cover"
       />
