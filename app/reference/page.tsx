@@ -4,7 +4,7 @@ import React from "react";
 const page = () => {
   return (
     <div className="">
-      <div className="container px-2 md:px-4 mx-auto py-6 md:py-24 space-y-5 md:space-y-10">
+      <div className="container px-2 md:px-4 mx-auto pt-24 pb-10 space-y-5 md:space-y-10">
         <h2>
           Spisak objekata i javnih površina koje su opremljene našom Led
           rasvetom

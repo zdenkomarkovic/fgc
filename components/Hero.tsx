@@ -13,7 +13,7 @@ import Autoplay from "embla-carousel-autoplay";
 import Hero1 from "../public/Cvetnjak Čačak 5.jpg";
 import Hero2 from "../public/Bazen Obrenovac 2.jpg";
 // import Hero3 from "../public/2347.jpg";
-import Hero3 from "../public/Narodni muzej Čačak 2.jpg";
+import Hero3 from "../public/Narodni muzej Čačak 4.jpg";
 
 import Image from "next/image";
 import { ArrowRightIcon } from "lucide-react";
