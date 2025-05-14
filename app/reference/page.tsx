@@ -1,4 +1,3 @@
-import BackgroundImage from "@/components/BackgroundImage";
 import ImageSliderKlizni from "@/components/ImageSliderKlizni";
 import React from "react";
 
