@@ -316,10 +316,16 @@ export const proizvodi: Proizvodi[] = [
         title: "LED ulična svetiljka LPU-10",
         slug: "LED-ulicna-svetiljka-LPU-10",
         image: "/LPU-10.png",
-        images: [],
+        images: [
+          "/Cerevicka skela 1.jpg",
+          "/Cerevicka skela 2.jpg",
+          "/Cerevicka skela 3.jpg",
+          "/Cerevicka skela 4.jpg",
+          "/Cerevicka skela 5.jpg",
+        ],
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora. Svetiljka je pogodna za postavljanje na stubove visine od 4 do 8 metara.",
-          "Ugrađene komponente visokog kvaliteta obezbeđuju dug vek trajanja od najmanje 50.000 radnih sati.",
+          "Ugrađene komponente visokog kvaliteta obezbeđuju dug životni vek trajanja od najmanje 100.000 radnih sati.",
           "Modularna konstrukcija omogućava brzo servisiranje i lako unapređenje svetiljke ugradnjom efikasnijih delova.",
           "Kućište LED svetiljke izrađeno je od livenog aluminijuma, što omogućava jednostavno održavanje.",
           "Zaštitno staklo svetiljke napravljeno je od termički ojačanog ravnog stakla, a njegova debljina i vrsta mogu se prilagoditi potrebama kupca.",
@@ -347,7 +353,6 @@ export const proizvodi: Proizvodi[] = [
           "/G3-Kolodvorska.jpg",
           "/Garaze-G3-Kolodvorska.jpg",
           "/Konjic-0.jpg",
-          "/Konjic.jpg",
           "/Lasva.jpg",
         ],
         text: [
@@ -401,7 +406,7 @@ export const proizvodi: Proizvodi[] = [
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
-          "Ugrađene komponente visokog kvaliteta obezbeđuju dug vek trajanja od najmanje 50.000 radnih sati.",
+          "Ugrađene komponente visokog kvaliteta obezbeđuju dug vek trajanja od najmanje 100.000 radnih sati.",
           "Modularna konstrukcija omogućava brzo servisiranje i lako unapređenje svetiljke ugradnjom efikasnijih delova.",
           "LED izvori svetlosti dostupni su u snagama od 15 do 45 W.",
           "Kućište LED svetiljke izrađeno je od livenog aluminijuma, što omogućava jednostavno održavanje.",
@@ -423,7 +428,7 @@ export const proizvodi: Proizvodi[] = [
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
-          "Ugrađene komponente visokog kvaliteta obezbeđuju dug vek trajanja od najmanje 50.000 radnih sati.",
+          "Ugrađene komponente visokog kvaliteta obezbeđuju dug vek trajanja od najmanje 100.000 radnih sati.",
           "Modularna konstrukcija omogućava brzo servisiranje i lako unapređenje svetiljke ugradnjom efikasnijih delova.",
           "LED izvori svetlosti dostupni su u snagama od 50 do 90 W.",
           "Kućište LED svetiljke izrađeno je od livenog aluminijuma, što omogućava jednostavno održavanje.",
@@ -445,7 +450,7 @@ export const proizvodi: Proizvodi[] = [
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
-          "Ugrađene komponente visokog kvaliteta obezbeđuju dug vek trajanja od najmanje 50.000 radnih sati.",
+          "Ugrađene komponente visokog kvaliteta obezbeđuju dug vek trajanja od najmanje 100.000 radnih sati.",
           "Modularna konstrukcija omogućava brzo servisiranje i lako unapređenje svetiljke ugradnjom efikasnijih delova.",
           "LED izvori svetlosti dostupni su u snagama od 90 do 180 W.",
           "Kućište LED svetiljke izrađeno je od livenog aluminijuma, obezbeđujući čvrstoću i dugotrajnost. Svetiljka je otporna na udarce i poseduje visok nivo mehaničke zaštite, pogodna za primenu u zahtevnim uslovima (antivandal izvedba).",
@@ -464,6 +469,12 @@ export const proizvodi: Proizvodi[] = [
         slug: "LED-ulicna-svetiljka-LPU-30",
         image: "/LPU-30.png",
         images: [
+          "/Tomaševac park 1.jpg",
+          "/Tomaševac park 2.jpg",
+          "/Tomaševac park 3.jpg",
+          "/Tomaševac park 4.jpg",
+          "/Tomaševac park 5.jpg",
+          "/Tomaševac park 6.jpg",
           "/Park-K.-Monten.jpg",
           "/Park-Kemala-M.jpg",
           "/Park-Kemala-Montena.jpg",
@@ -472,7 +483,7 @@ export const proizvodi: Proizvodi[] = [
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
-          "Ugrađene komponente visokog kvaliteta obezbeđuju dug vek trajanja od najmanje 50.000 radnih sati.",
+          "Ugrađene komponente visokog kvaliteta obezbeđuju dug vek trajanja od najmanje 100.000 radnih sati.",
           "Modularna konstrukcija omogućava brzo servisiranje i lako unapređenje svetiljke ugradnjom efikasnijih delova.",
           "LED izvori svetlosti dostupni su u snagama od 40 do 80 W.",
           "Kućište LED svetiljke izrađeno je od livenog aluminijuma, što omogućava jednostavno održavanje.",
@@ -491,7 +502,12 @@ export const proizvodi: Proizvodi[] = [
         title: "LED ulična svetiljka LPU-31A",
         slug: "LED-ulicna-svetiljka-LPU-31A",
         image: "/LPU-31A.png",
-        images: ["/LPU-31A-Braon.jpg", "/1729752519898.jpg"],
+        images: [
+          "/Zrenjanin P.Drapšina 1.jpg",
+          "/Zrenjanin P.Drapšina 2.jpg",
+          "/LPU-31A-Braon1.jpg",
+          "/1729752519898.jpg",
+        ],
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
@@ -514,11 +530,7 @@ export const proizvodi: Proizvodi[] = [
         title: "LED ulična svetiljka LPU-32D",
         slug: "LED-ulicna-svetiljka-LPU-32D",
         image: "/LPU-32D.png",
-        images: [
-          "/20241027_115448-scaled.jpg",
-          "/20241027_115551-scaled.jpg",
-          "/O.Centar-Sa-scaled.jpg",
-        ],
+        images: ["/20241027_115448-scaled.jpg", "/20241027_115551-scaled.jpg"],
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
           "Proizvodnja se vrši u Bosni i Hercegovini, u skladu sa važećim EN standardima.",
@@ -542,6 +554,21 @@ export const proizvodi: Proizvodi[] = [
         slug: "LED-ulicna-svetiljka-LP-U34F",
         image: "/LP-U34F.png",
         images: [
+          "/Zrenjanin beli lampion 2.jpg",
+          "/Zrenjanin beli lampion.jpg",
+          "/Zrenjanin crni lampion 2.jpg",
+          "/Zrenjanin crni lampion.jpg",
+          "/Cvetnjak Čačak 1.jpg",
+          "/Cvetnjak Čačak 2.jpg",
+          "/Cvetnjak Čačak 3.jpg",
+          "/Cvetnjak Čačak 4.jpg",
+          "/Cvetnjak Čačak 5.jpg",
+          "/Cvetnjak Čačak 6.jpg",
+          "/Cvetnjak Čačak 7.jpg",
+          "/Cvetnjak Čačak 8.jpg",
+          "/Cvetnjak Čačak 9.jpg",
+          "/Cvetnjak Čačak 10.jpg",
+          "/Cvetnjak Čačak 11.jpg",
           "/Dobrinja-0.jpg",
           "/Dobrinja-00.jpg",
           "/1729752519493.jpg",
@@ -559,6 +586,7 @@ export const proizvodi: Proizvodi[] = [
           "Zaštitni poklopac svetiljke izrađen je od polikarbonata, što omogućava lako i praktično održavanje.",
           "Boja svetlosti dostupna je u rasponu od 2700 do 6500 K.",
           "Po zahtevu kupca, svetiljke mogu biti dodatno opremljene zaštitom od prenapona.",
+          "Rade se u crnoj i beloj boji",
         ],
         docs: [
           {
@@ -577,7 +605,6 @@ export const proizvodi: Proizvodi[] = [
           "/Tuzla-Korzo-00.jpg",
           "/Tuzla-Korzo-0.jpg",
           "/Gorazde.jpg",
-          "/Gorazde-Staro-stanje.jpg",
           "/Gorazde-novo-stanje-1.jpg",
           "/Gorazde-00.jpg",
         ],
@@ -625,15 +652,15 @@ export const proizvodi: Proizvodi[] = [
     ],
   },
   {
-    title: "LED Reflektori",
+    title: "LED reflektori",
     slug: "LED-Reflektori",
     image: "/LPR-30.png",
     products: [
       {
-        title: "Viseća LED svjetiljka LP-UFO",
-        slug: "Viseca-LED-svjetiljka-LP-UFO",
+        title: "Viseća LED svetiljka LP-UFO",
+        slug: "Viseca-LED-svetiljka-LP-UFO",
         image: "/LP-UFO.png",
-        images: ["/Standard.jpg", "/Standard-hala.jpg"],
+        images: ["/Standard.jpg", "/Standard-hala.jpg", "/Lađevci hala.jpg"],
         text: [
           "Namena joj je prvenstveno za industrijsko osvetljenje, sa mogućnošću neprekidnog rada tokom dugog vremenskog perioda.",
           "Idealna je za upotrebu u proizvodnim halama, fabričkim postrojenjima i magacinima.",
@@ -779,7 +806,14 @@ export const proizvodi: Proizvodi[] = [
         title: "LED reflektor LPR-30",
         slug: "LED-reflektor-LPR-30",
         image: "/LPR-30.png",
-        images: ["/Balon-2.jpg", "/Balon-1.jpg"],
+        images: [
+          "/Balon-2.jpg",
+          "/Balon-1.jpg",
+          "/Bazen Obrenovac 1.jpg",
+          "/Bazen Obrenovac 2.jpg",
+          "/Bazen Obrenovac 3.jpg",
+          "/Bazen Obrenovac 4.jpg",
+        ],
         text: [
           "LED reflektori predstavljaju univerzalna rasvetna rešenja sa širokom upotrebom u savremenim uslovima. Zahvaljujući posebnoj sposobnosti širenja svetlosti, ravnomerno osvetljavaju velike industrijske prostore ili ističu detalje na fasadama, spomenicima i objektima od značaja.",
           "Korišćenje visokokvalitetnih komponenti obezbeđuje dug vek trajanja – najmanje 100.000 sati rada.",
@@ -807,7 +841,7 @@ export const proizvodi: Proizvodi[] = [
         text: [
           "LED osvetljenje na benzinskim stanicama doprinosi uštedi električne energije i pruža pozitivan utisak korisnicima.",
           "Privlačenje vozača i olakšavanje kupovine cilj je svakog prodajnog objekta – ni pumpe nisu izuzetak. Ukoliko želite da putnici lako uoče vašu stanicu, da se osećaju bezbedno dok toče gorivo i brzo završe kupovinu, pravi izbor je model LPB-51.",
-          "Ugrađeni kvalitetni delovi omogućavaju dug radni vek – najmanje 100.000 sati.",
+          "Ugrađene komponente visokog kvaliteta obezbeđuju dug životni vek trajanja od najmanje 100.000 radnih sati.",
           "Proizvedeno u Bosni i Hercegovini, u skladu sa evropskim standardima (EN).",
           "Temperatura svetlosti se kreće između 2700 i 6500 kelvina, uz mogućnost različitih uglova rasipanja svetlosti.",
           "Kućište reflektora izrađeno je od aluminijuma, a zaštitni sloj od ojačanog stakla.",
@@ -836,7 +870,7 @@ export const proizvodi: Proizvodi[] = [
           "Obezbeđuje optimalno osvetljenje koje omogućava prijatnu radnu atmosferu.",
           "Ovaj proizvod omogućava značajnu uštedu energije.",
           "Proizvedena u skladu sa svim relevantnim EN standardima.",
-          "Ima dug vek trajanja, sa minimalnim radnim vekom od 100.000 sati.",
+          "Ima dug vek trajanja, sa minimalnim radnim vekom od 100.000 radnih sati.",
           "Pruža mogućnost podešavanja uglova svetlosti kako bi se prilagodila različitim potrebama.",
           "Kućište je izrađeno od aluminijuma.",
           "Zaštitna plastika (protektor) je napravljena od visokokvalitetnog polikarbonata, što olakšava održavanje.",
@@ -874,13 +908,13 @@ export const proizvodi: Proizvodi[] = [
     ],
   },
   {
-    title: "LED Linearne lampe",
-    slug: "LED-Linearne-lampe",
+    title: "LED linearne lampe",
+    slug: "LED-linearne-lampe",
     image: "/LPL-71-1.png",
     products: [
       {
-        title: "LED Linearna lampa LPL-71",
-        slug: "LED-Linearna-lampa-LPL-71",
+        title: "LED linearna svetiljka LPL-71",
+        slug: "LED-linearna-svetiljka-LPL-71",
         image: "/LPL-71-1.png",
         images: [],
         text: [
@@ -892,9 +926,9 @@ export const proizvodi: Proizvodi[] = [
           "Proizvedena u Bosni i Hercegovini, u skladu sa EN normama.",
           "Zaštitni poklopac svetiljke izrađen je od pleksiglasa sa difuzorom.",
           "Bez treperenja, pogodna za prostore u kojima se boravi duže vreme.",
-          "Svi delovi su lako zamenjivi, što omogućava jeftinu popravku u slučaju kvara.",
+          "Svi delovi su lako zamenljivi (reč zamenljivi) što omogućava jeftinu popravku u slučaju kvara.",
           "Dostupna u ugradnoj i nadgradnoj (kao visilica) verziji.",
-          "Dug radni vek od najmanje 100.000 sati.",
+          "Dug radni vek od najmanje 100.000 radnih sati.",
           "Montaža pomoću sajli (visilica).",
         ],
         docs: [
@@ -910,7 +944,7 @@ export const proizvodi: Proizvodi[] = [
         image: "/LPL-72-1.png",
         images: [],
         text: [
-          "Vodootporna linearna svetiljka namenjena je za vlažne prostore, magacine i spoljašnje okruženje, pogodna za montažu do visine od 4 metra.",
+          "Vodootporna linearna svetiljka namenjena je za vlažne prostore, magacine i spoljašnje okruženje, pogodna za montažu do 4 metra visine.",
           "Odlična zamena za klasične vodootporne svetiljke sa fluorescentnim cevima zbog niže potrošnje struje i manjih troškova održavanja.",
           "Ugrađeni su kvalitetni LED drajveri, a marka i model drajvera mogu se prilagoditi po želji kupca. Po zahtevu, moguće je ugraditi prenaponsku zaštitu.",
           "Dostupne varijante sa jednim ili dva izlaza.",
@@ -920,7 +954,7 @@ export const proizvodi: Proizvodi[] = [
           "Boja svetlosti se može prilagoditi – u rasponu od 2700K do 6500K.",
           "Svi delovi svetiljke su zasebno zamenjivi, što olakšava i pojeftinjuje popravku tokom eksploatacije.",
           "Montaža je moguća pomoću nosača ili ovjesnog sistema.",
-          "Dug radni vek – najmanje 50.000 sati.",
+          "Dug radni vek – najmanje 50.000 radnih sati.",
         ],
         docs: [
           {
@@ -932,8 +966,8 @@ export const proizvodi: Proizvodi[] = [
     ],
   },
   {
-    title: "Unutrašnja LED rasvjeta",
-    slug: "Unutrasnja-LED-rasvjeta",
+    title: "Unutrašnja LED rasveta",
+    slug: "Unutrasnja-LED-rasveta",
     image: "/Doro-SM.png",
     products: [
       {
@@ -986,11 +1020,11 @@ export const proizvodi: Proizvodi[] = [
         image: "/Gin.png",
         images: [],
         text: [
-          "Downlight svetiljke usmeravaju snop svetlosti pravo nadole. Koriste se za osvetljavanje plafona, neizravno osvetljenje prostora ili osvetljenje zidova.",
+          "Downlight svetiljke usmeravaju snop svetlosti pravo nadole. Koriste se za indirektnu rasvetu različitih prostora ili osvetljenje zidova.",
           "Mogu se ugraditi u plafon, pa ih zovemo ugradne downlight svetiljke.",
           "Kvalitetne komponente omogućavaju dug vek trajanja od najmanje 60.000 radnih sati.",
           "Izrađene u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u opsegu od 3000 do 6500 kelvina, sa više uglova rasipanja.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište svetiljke je od aluminijuma, a pokrov od providnog raspršivača svetlosti.",
           "Radna temperatura svetiljke je od -40 do +50 stepeni Celzijusa.",
         ],
@@ -1007,11 +1041,11 @@ export const proizvodi: Proizvodi[] = [
         image: "/Akira.png",
         images: [],
         text: [
-          "Downlight svetiljke usmeravaju snop svetlosti pravo nadole. Koriste se za osvetljavanje plafona, neizravno osvetljenje prostora ili osvetljenje zidova.",
+          "Downlight svetiljke u svom osnovnom obliku usmeravaju svetlosni tok nadole. Koriste se za indirektnu rasvetu različitih prostora ili osvetljenje zidova.",
           "Mogu se ugraditi u plafon, pa ih zovemo ugradne downlight svetiljke.",
           "Kvalitetne komponente omogućavaju dug vek trajanja od najmanje 60.000 radnih sati.",
           "Izrađene u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u opsegu od 3000 do 6500 kelvina, sa više uglova rasipanja.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište svetiljke je od aluminijuma, a pokrov od providnog raspršivača svetlosti.",
           "Radna temperatura svetiljke je od -40 do +50 stepeni Celzijusa.",
         ],
@@ -1028,11 +1062,11 @@ export const proizvodi: Proizvodi[] = [
         image: "/Sora.png",
         images: [],
         text: [
-          "Downlight svetiljke usmeravaju snop svetlosti pravo nadole. Koriste se za osvetljavanje plafona, neizravno osvetljenje prostora ili osvetljenje zidova.",
+          "Downlight svetiljke u svom osnovnom obliku usmeravaju svetlosni tok nadole. Koriste se za indirektnu rasvetu različitih prostora ili osvetljenje zidova.",
           "Mogu se ugraditi u plafon, pa ih zovemo ugradne downlight svetiljke.",
           "Kvalitetne komponente omogućavaju dug vek trajanja od najmanje 60.000 radnih sati.",
           "Izrađene u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u opsegu od 3000 do 6500 kelvina, sa više uglova rasipanja.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište svetiljke je od aluminijuma, a pokrov od providnog raspršivača svetlosti.",
           "Radna temperatura svetiljke je od -40 do +50 stepeni Celzijusa.",
           "Dostupno u crnoj i beloj boji.",
@@ -1054,7 +1088,7 @@ export const proizvodi: Proizvodi[] = [
           "Mogu se ugraditi u plafon, pa ih zovemo ugradne LED spot svetiljke.",
           "Kvalitetne komponente omogućavaju dug vek trajanja od najmanje 60.000 radnih sati.",
           "Izrađene u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u opsegu od 3000 do 6500 kelvina, sa više uglova rasipanja.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište svetiljke je od aluminijuma, a protektor od termički ojačanog stakla.",
           "Radna temperatura svetiljke je od -40 do +50 stepeni Celzijusa.",
         ],
@@ -1075,10 +1109,10 @@ export const proizvodi: Proizvodi[] = [
           "Često se koriste kada se zahtevi za osvetljenjem često menjaju, jer omogućavaju lako prilagođavanje pravca i položaja svetlosti.",
           "Reflektori se mogu nabaviti sa različitim uglovima snopa – od uskih do širokih. Uski snop pokriva manje površine sa veće udaljenosti, dok širi snop omogućava osvetljenje većeg prostora sa iste daljine.",
           "Proizvedeni su u skladu sa EN standardima.",
-          "Temperatura svetlosti dostupna je u rasponu od 3000 do 6500 K, uz mogućnost različitih uglova raspršivanja svetlosti.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište LED svetiljke izrađeno je od aluminijuma, a zaštitni poklopac od providnog difuzora.",
           "Radna temperatura svetiljke kreće se od -40 do +50°C.",
-          "Korišćene su kvalitetne komponente koje obezbeđuju radni vek od najmanje 60.000 sati.",
+          "Korišćene su kvalitetne komponente koje obezbeđuju radni vek od najmanje 60.000 radnih sati.",
         ],
         docs: [
           {
@@ -1097,10 +1131,10 @@ export const proizvodi: Proizvodi[] = [
           "Često se koriste kada se zahtevi za osvetljenjem često menjaju, jer omogućavaju lako prilagođavanje pravca i položaja svetlosti.",
           "Reflektori se mogu nabaviti sa različitim uglovima snopa – od uskih do širokih. Uski snop pokriva manje površine sa veće udaljenosti, dok širi snop omogućava osvetljenje većeg prostora sa iste daljine.",
           "Proizvedeni su u skladu sa EN standardima.",
-          "Temperatura svetlosti dostupna je u rasponu od 3000 do 6500 K, uz mogućnost različitih uglova raspršivanja svetlosti.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište LED svetiljke izrađeno je od aluminijuma, a zaštitni poklopac od providnog difuzora.",
           "Radna temperatura svetiljke kreće se od -40 do +50°C.",
-          "Korišćene su kvalitetne komponente koje obezbeđuju radni vek od najmanje 60.000 sati.",
+          "Korišćene su kvalitetne komponente koje obezbeđuju radni vek od najmanje 60.000 radnih sati.",
         ],
         docs: [
           {
@@ -1122,7 +1156,7 @@ export const proizvodi: Proizvodi[] = [
           "Kućište LED svetiljke izrađeno je od aluminijuma, dostupno u crnoj ili beloj boji, dok je zaštitni sloj izrađen od opalnog difuzora.",
           "Zahvaljujući širokom rasponu osvetljenja, ove svetiljke se često koriste. Najčešće su kružnog oblika.",
           "Radna temperatura svetiljke je od -40 do +50°C.",
-          "Visok kvalitet ugrađenih komponenti omogućava radni vek od najmanje 60.000 sati.",
+          "Visok kvalitet ugrađenih komponenti omogućava radni vek od najmanje 60.000 radnih sati.",
         ],
         docs: [
           {
@@ -1144,7 +1178,7 @@ export const proizvodi: Proizvodi[] = [
           "Kućište LED svetiljke izrađeno je od aluminijuma, dostupno u crnoj ili beloj boji, dok je zaštitni sloj izrađen od opalnog difuzora.",
           "Zahvaljujući širokom rasponu osvetljenja, ove svetiljke se često koriste. Najčešće su kružnog oblika.",
           "Radna temperatura svetiljke je od -40 do +50°C.",
-          "Visok kvalitet ugrađenih komponenti omogućava radni vek od najmanje 60.000 sati.",
+          "Visok kvalitet ugrađenih komponenti omogućava radni vek od najmanje 60.000 radnih sati.",
         ],
         docs: [
           {

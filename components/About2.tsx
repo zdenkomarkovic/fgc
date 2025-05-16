@@ -3,11 +3,12 @@ import Image from "@/node_modules/next/image";
 import React from "react";
 import { motion } from "framer-motion";
 import Statistika2 from "./Statistika2";
+import img from "/public/Cvetnjak Čačak 10.jpg";
 
 const About2 = () => {
   return (
     <div>
-      <div className="container px-2 md:px-4 py-10 md:py-24 mx-auto flex flex-col md:flex-row gap-6 md:gap-20 items-center">
+      <div className="container px-2 md:px-4 py-10 md:py-24 mx-auto relative flex flex-col md:flex-row gap-6 md:gap-20 items-center">
         <div className=" md:w-2/3 space-y-3 md:space-y-8">
           <h2 className="">
             FGC – Zvanični zastupnik za teritoriju Republike Srbije Luminos
@@ -33,14 +34,14 @@ const About2 = () => {
           whileInView={{ scale: 1, opacity: 1 }} // Animira se ka centru
           transition={{ duration: 0.8, ease: "easeOut" }}
           viewport={{ once: true }}
-          className="rounded-3xl overflow-hidden "
+          className="rounded-3xl overflow-hidden"
         >
           <Image
-            src={"/Cvetnjak Čačak 10.jpg"}
+            src={img}
             width={800}
             height={800}
-            alt="slep puric cacak "
-            className="object-cover aspect-[1/1]"
+            alt="led rasveta"
+            className="object-cover w-full aspect-square"
           />
         </motion.div>
       </div>

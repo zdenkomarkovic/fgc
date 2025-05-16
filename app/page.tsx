@@ -5,6 +5,7 @@ import Hero from "@/components/Hero";
 import Sertifikat from "@/components/Sertifikat";
 import Statistika from "@/components/Statistika";
 import { cards1Data } from "@/constants/index";
+import bgImg from "/public/Cvetnjak Čačak 8.jpg";
 
 export default function Home() {
   return (
@@ -14,7 +15,7 @@ export default function Home() {
       <Cards1 title={"Od nas možete očekivati"} data={cards1Data} />
       <Sertifikat />
       <Statistika />
-      <BackgroundImage img={"Cvetnjak Čačak 8.jpg"} />
+      <BackgroundImage img={bgImg} />
     </div>
   );
 }

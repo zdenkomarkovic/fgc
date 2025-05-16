@@ -1,6 +1,7 @@
 import BackgroundImage from "@/components/BackgroundImage";
 import Link from "@/node_modules/next/link";
 import React from "react";
+import bgImg from "/public/Svečana sala Beograd.jpg";
 
 const page = () => {
   return (
@@ -71,7 +72,7 @@ const page = () => {
           poverenje i fleksibilnost.
         </p>
       </div>
-      <BackgroundImage img={"Svečana sala Beograd.jpg"} />
+      <BackgroundImage img={bgImg} />
     </div>
   );
 };

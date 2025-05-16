@@ -45,13 +45,12 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
       <div className="overflow-hidden" ref={emblaMainRef}>
         <div className="flex">
           {images.map((src, index) => (
-            <div key={index} className="min-w-full">
+            <div key={index} className="min-w-full h-screen relative">
               <Image
                 src={src}
-                width={1500}
-                height={1000}
-                alt="kupaci bliss"
-                className="w-full h-screen object-cover"
+                fill
+                alt="led rasveta"
+                className="w-full object-cover"
               />
             </div>
           ))}
