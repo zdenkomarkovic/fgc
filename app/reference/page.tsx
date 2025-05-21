@@ -124,4 +124,8 @@ const images = [
   "/Zrenjanin P.Drapšina 2.jpg",
   "/Zrenjanin šetalište 1.webp",
   "/Zrenjanin šetalište 2.webp",
+  "/Zaovine 4.jpg",
+  "/Zaovine 1.jpg",
+  "/Zaovine 2.jpg",
+  "/Zaovine 3.jpg",
 ];

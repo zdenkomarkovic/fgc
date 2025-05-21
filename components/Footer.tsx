@@ -69,7 +69,7 @@ export default function Footer() {
                 target={"_blank"}
                 className=" bg-blue-700 rounded-full p-1"
               >
-                <Facebook classname="" />
+                <Facebook />
               </a>
               <a
                 href="#"

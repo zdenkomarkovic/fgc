@@ -915,7 +915,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "LED linearna svetiljka LPL-71",
         slug: "LED-linearna-svetiljka-LPL-71",
-        image: "/LPL-71-1.png",
+        image: "/LPL-71.png",
         images: [],
         text: [
           "LED linearna lampa predstavlja ekonomično rešenje za unutrašnje osvetljenje, odlična zamena za fluorescentne cevi.",
