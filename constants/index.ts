@@ -527,7 +527,7 @@ export const proizvodi: Proizvodi[] = [
         ],
       },
       {
-        title: "LED ulična svetiljka LPU-32D",
+        title: "LED ulična svetiljka LP-U32D",
         slug: "LED-ulicna-svetiljka-LPU-32D",
         image: "/LPU-32D.png",
         images: ["/20241027_115448-scaled.jpg", "/20241027_115551-scaled.jpg"],
@@ -1024,7 +1024,7 @@ export const proizvodi: Proizvodi[] = [
           "Mogu se ugraditi u plafon, pa ih zovemo ugradne downlight svetiljke.",
           "Kvalitetne komponente omogućavaju dug vek trajanja od najmanje 60.000 radnih sati.",
           "Izrađene u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište svetiljke je od aluminijuma, a pokrov od providnog raspršivača svetlosti.",
           "Radna temperatura svetiljke je od -40 do +50 stepeni Celzijusa.",
         ],
@@ -1045,7 +1045,7 @@ export const proizvodi: Proizvodi[] = [
           "Mogu se ugraditi u plafon, pa ih zovemo ugradne downlight svetiljke.",
           "Kvalitetne komponente omogućavaju dug vek trajanja od najmanje 60.000 radnih sati.",
           "Izrađene u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište svetiljke je od aluminijuma, a pokrov od providnog raspršivača svetlosti.",
           "Radna temperatura svetiljke je od -40 do +50 stepeni Celzijusa.",
         ],
@@ -1066,7 +1066,7 @@ export const proizvodi: Proizvodi[] = [
           "Mogu se ugraditi u plafon, pa ih zovemo ugradne downlight svetiljke.",
           "Kvalitetne komponente omogućavaju dug vek trajanja od najmanje 60.000 radnih sati.",
           "Izrađene u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište svetiljke je od aluminijuma, a pokrov od providnog raspršivača svetlosti.",
           "Radna temperatura svetiljke je od -40 do +50 stepeni Celzijusa.",
           "Dostupno u crnoj i beloj boji.",
@@ -1088,7 +1088,7 @@ export const proizvodi: Proizvodi[] = [
           "Mogu se ugraditi u plafon, pa ih zovemo ugradne LED spot svetiljke.",
           "Kvalitetne komponente omogućavaju dug vek trajanja od najmanje 60.000 radnih sati.",
           "Izrađene u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište svetiljke je od aluminijuma, a protektor od termički ojačanog stakla.",
           "Radna temperatura svetiljke je od -40 do +50 stepeni Celzijusa.",
         ],
@@ -1109,7 +1109,7 @@ export const proizvodi: Proizvodi[] = [
           "Često se koriste kada se zahtevi za osvetljenjem često menjaju, jer omogućavaju lako prilagođavanje pravca i položaja svetlosti.",
           "Reflektori se mogu nabaviti sa različitim uglovima snopa – od uskih do širokih. Uski snop pokriva manje površine sa veće udaljenosti, dok širi snop omogućava osvetljenje većeg prostora sa iste daljine.",
           "Proizvedeni su u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište LED svetiljke izrađeno je od aluminijuma, a zaštitni poklopac od providnog difuzora.",
           "Radna temperatura svetiljke kreće se od -40 do +50°C.",
           "Korišćene su kvalitetne komponente koje obezbeđuju radni vek od najmanje 60.000 radnih sati.",
@@ -1131,7 +1131,7 @@ export const proizvodi: Proizvodi[] = [
           "Često se koriste kada se zahtevi za osvetljenjem često menjaju, jer omogućavaju lako prilagođavanje pravca i položaja svetlosti.",
           "Reflektori se mogu nabaviti sa različitim uglovima snopa – od uskih do širokih. Uski snop pokriva manje površine sa veće udaljenosti, dok širi snop omogućava osvetljenje većeg prostora sa iste daljine.",
           "Proizvedeni su u skladu sa EN standardima.",
-          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je mogući raspon rasipanja svetlosti moguć u više uglova.",
+          "Boja svetlosti dostupna je u rasponu od 3000 do 6500K, dok je raspon rasipanja svetlosti moguć u više uglova.",
           "Kućište LED svetiljke izrađeno je od aluminijuma, a zaštitni poklopac od providnog difuzora.",
           "Radna temperatura svetiljke kreće se od -40 do +50°C.",
           "Korišćene su kvalitetne komponente koje obezbeđuju radni vek od najmanje 60.000 radnih sati.",
@@ -1202,9 +1202,9 @@ export const proizvodi: Proizvodi[] = [
         text: [
           "LED paneli marke Luminos ambienta predstavljaju odličan izbor za osvetljavanje unutrašnjih prostora.",
           "Proizvode se u Bosni i Hercegovini uz upotrebu visokokvalitetnih delova.",
-          "Laki su za ugradnju, dolaze sa trogodišnjom garancijom i uvek su dostupni po povoljnoj ceni.",
+          "Laki su za ugradnju, dolaze sa garancijom od tri do pet godina i uvek su dostupni po povoljnoj ceni.",
           "Kupcima je obezbeđena i kvalitetna postprodajna podrška.",
-          "U ponudi je 18 modela ambijentalnih LED panela snage od 3 do 24 vata, ugradne i nadgradne varijante.",
+          "U ponudi je 18 modela ambijentalnih LED panela snage od 3W do 24W, ugradne i nadgradne varijante.",
         ],
         docs: [],
       },
@@ -1223,9 +1223,9 @@ export const proizvodi: Proizvodi[] = [
         text: [
           "LED paneli marke Luminos ambienta predstavljaju odličan izbor za osvetljavanje unutrašnjih prostora.",
           "Proizvode se u Bosni i Hercegovini uz upotrebu visokokvalitetnih delova.",
-          "Laki su za ugradnju, dolaze sa trogodišnjom garancijom i uvek su dostupni po povoljnoj ceni.",
+          "Laki su za ugradnju, dolaze sa garancijom od tri do pet godina i uvek su dostupni po povoljnoj ceni.",
           "Kupcima je obezbeđena i kvalitetna postprodajna podrška.",
-          "U ponudi je 18 modela ambijentalnih LED panela snage od 3 do 24 vata, ugradne i nadgradne varijante.",
+          "U ponudi je 18 modela ambijentalnih LED panela snage od 3W do 24W, ugradne i nadgradne varijante.",
         ],
         docs: [],
       },
@@ -1233,7 +1233,7 @@ export const proizvodi: Proizvodi[] = [
   },
   {
     title: "Kvadratni LED panel 600x600",
-    slug: "dfsg",
+    slug: "Kvadratni-LED-panel",
     image: "/panel-600x600-1.png",
     products: [
       {
@@ -1244,12 +1244,13 @@ export const proizvodi: Proizvodi[] = [
         text: [
           "LED panel ne proizvodi treperenje koje zamara ljudsko oko, a ugrađeni difuzor štiti vid sprečavajući direktan sjaj LED dioda.",
           "Ovi paneli su predviđeni za osvetljenje zatvorenih prostora kao što su stanovi, kancelarije, restorani, tržni centri i prodavnice.",
-          "Zamjenom običnih sijalica sa žarnom niti LED panelom, moguće je ostvariti uštedu električne energije i do 86%.",
+          "Zamenom običnih sijalica sa žarnom niti LED panelom moguće je ostvariti uštedu električne energije i do 86%.",
           "Proizvod ispunjava sve bezbednosne i zdravstvene uslove za upotrebu u unutrašnjoj rasveti.",
           "Izrađeni u Bosni i Hercegovini u skladu sa EN standardima.",
           "Kućište panela je napravljeno od aluminijuma bele boje, dok je zaštitni poklopac izrađen od polikarbonata sa difuzijom svetla koja ravnomerno raspoređuje osvetljenje.",
           "Montaža: nadgradna / ugradna",
           "Ugrađeni kvalitetni delovi garantuju dug vek trajanja od najmanje 50.000 radnih sati.",
+          "Proizvođačka garancija na kvadratni LED panel 600x600 je 5 godina.",
         ],
         docs: [
           {
@@ -1262,7 +1263,7 @@ export const proizvodi: Proizvodi[] = [
   },
   {
     title: "LED panel 1200×300",
-    slug: "dfsg",
+    slug: "LED-panel-1200",
     image: "/panel-1200x300-1.png",
     products: [
       {
@@ -1273,12 +1274,13 @@ export const proizvodi: Proizvodi[] = [
         text: [
           "LED panel ne proizvodi treperenje koje zamara ljudsko oko, a ugrađeni difuzor štiti vid sprečavajući direktan sjaj LED dioda.",
           "Ovi paneli su predviđeni za osvetljenje zatvorenih prostora kao što su stanovi, kancelarije, restorani, tržni centri i prodavnice.",
-          "Zamjenom običnih sijalica sa žarnom niti LED panelom, moguće je ostvariti uštedu električne energije i do 86%.",
+          "Zamenom običnih sijalica sa žarnom niti LED panelom moguće je ostvariti uštedu električne energije i do 86%.",
           "Proizvod ispunjava sve bezbednosne i zdravstvene uslove za upotrebu u unutrašnjoj rasveti.",
           "Izrađeni u Bosni i Hercegovini u skladu sa EN standardima.",
           "Kućište panela je napravljeno od aluminijuma bele boje, dok je zaštitni poklopac izrađen od polikarbonata sa difuzijom svetla koja ravnomerno raspoređuje osvetljenje.",
           "Montaža: nadgradna",
           "Ugrađeni kvalitetni delovi garantuju dug vek trajanja od najmanje 50.000 radnih sati.",
+          "Proizvođačka garancija na LED panel 1200x300 je 5 godina.",
         ],
         docs: [
           {

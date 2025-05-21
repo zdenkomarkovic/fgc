@@ -68,6 +68,8 @@ const reference = [
   "Proizvodnja plastike, Divi, mesto Tara",
   "Ulična rasveta, ulica Tekstilna, grad Prijepolje",
   "Stambeni blok Stadion, grad Prijepolje",
+  "Unutrašnja rasveta hale Kraljeva voda mesto Zlatibor, grad Užice",
+  "Spoljašnja rasveta mesta Zaovine, planina Tara",
 ];
 
 const images = [

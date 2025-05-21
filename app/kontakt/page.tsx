@@ -70,7 +70,7 @@ export default function Contact() {
               >
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
                   <FaPhone className="text-[20px] lg:text-[30px]" />
-                  +381 063 1123104
+                  +381 63 1123104
                 </button>
               </a>
               <a
@@ -88,7 +88,7 @@ export default function Contact() {
               >
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
                   <FaViber className="text-[28px] lg:text-[35px] p-1 bg-purple-600 text-white rounded-xl rounde" />{" "}
-                  +381 063 1123104
+                  +381 63 1123104
                 </button>
               </a>
               <a
@@ -97,7 +97,7 @@ export default function Contact() {
               >
                 <button className="hover:scale-110 transition-transform duration-500 px-4 md:px-8 flex gap-4 items-center">
                   <FaWhatsappSquare className="text-[30px] lg:text-[35px] rounded-2xl text-green-700 " />{" "}
-                  +381 063 1123104
+                  +381 63 1123104
                 </button>
               </a>
               <a

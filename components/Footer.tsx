@@ -2,6 +2,8 @@
 import { motion } from "framer-motion";
 import Link from "next/link";
 import { Facebook, Instagram } from "lucide-react";
+import { FaViber } from "react-icons/fa";
+import { FaWhatsappSquare } from "react-icons/fa";
 
 export default function Footer() {
   return (
@@ -38,8 +40,14 @@ export default function Footer() {
           <div className="space-y-1 md:space-y-3 pb-5 md:pb-0">
             <div>
               {" "}
-              <a href="tel:+38162201250">
-                <p className="hover:text-primary">Telefon: +38162 201 250</p>
+              <a href="tel:+381631123104">
+                <p className="hover:text-primary">Mob. Tel: +381 63 1123104</p>
+              </a>
+            </div>
+            <div>
+              {" "}
+              <a href="tel:+381213017111">
+                <p className="hover:text-primary">Telefon: +381 21 301 7 111</p>
               </a>
             </div>
             <div>
@@ -49,11 +57,25 @@ export default function Footer() {
                 </p>
               </a>
             </div>
-            <div className="flex space-x-4 justify-center md:justify-start">
-              <a href="#" target={"_blank"} className="hover:text-primary">
-                <Facebook />
+            <div className="flex space-x-4 justify-center md:justify-start items-center">
+              <a href="viber://chat?number=%2B381631123104" className="">
+                <FaViber className="text-[28px] lg:text-[28px] p-1 bg-purple-600 text-white rounded-xl rounde" />{" "}
               </a>
-              <a href="#" target={"_blank"} className="hover:text-primary">
+              <a href="https://wa.me/381631123104" className="">
+                <FaWhatsappSquare className="text-[30px] lg:text-[28px] rounded-2xl text-green-700 " />{" "}
+              </a>
+              <a
+                href="#"
+                target={"_blank"}
+                className=" bg-blue-700 rounded-full p-1"
+              >
+                <Facebook classname="" />
+              </a>
+              <a
+                href="#"
+                target={"_blank"}
+                className=" bg-orange-600 rounded-full"
+              >
                 <Instagram />
               </a>
             </div>

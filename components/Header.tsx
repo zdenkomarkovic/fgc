@@ -100,16 +100,16 @@ export default function Header() {
           />
         </Link>
         <DesktopNav />
-        <Link href="tel:+38162201250">
+        <Link href="tel:+381631123104">
           <motion.button
             whileHover={{
               color: "hsl(var(--foreground))",
-              backgroundColor: "hsl(var(--primary))",
+              backgroundColor: "hsl(var(--muted))",
             }}
-            className=" items-center justify-center rounded-full text-primary border-primary border-2 text-sm md:text-lg py-1 px-2 md:py-2 md:px-4 transition-colors flex"
+            className=" items-center justify-center rounded-full text-muted border-muted border-2 text-sm md:text-lg py-1 px-2 md:py-2 md:px-4 transition-colors flex"
           >
             <PhoneIcon />
-            <p className="">+38162 201 250</p>
+            <p className="">+381 63 1123104</p>
           </motion.button>
         </Link>
         <MobileMenu />

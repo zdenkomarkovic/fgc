@@ -67,7 +67,7 @@ const Page = () => {
         <div className="flex flex-col gap-10">
           <h2 className=" text-primary">Luminos Ambienta</h2>
           <p>
-            Proizvodi iz brenda „Luminos Ambienta“ razvijeni su u Bosni I
+            Proizvodi iz brenda „Luminos Ambienta“ razvijeni su u Bosni i
             Hercegovini i izrađeni isključivo od najkvalitetnijih komponenti.
             Kvalitet svakog proizvoda potvrđuje garancija od tri do pet godina.
             U ponudi se nalazi 18 različitih vrsta ambijentalnih LED panela
