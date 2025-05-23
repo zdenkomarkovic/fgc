@@ -467,7 +467,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "LED ulična svetiljka LPU-30",
         slug: "LED-ulicna-svetiljka-LPU-30",
-        image: "/LPU-30.png",
+        image: "/LPU-301.png",
         images: [
           "/Tomaševac park 1.jpg",
           "/Tomaševac park 2.jpg",
@@ -529,7 +529,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "LED ulična svetiljka LP-U32D",
         slug: "LED-ulicna-svetiljka-LPU-32D",
-        image: "/LPU-32D.png",
+        image: "/LPU-32D1.png",
         images: ["/20241027_115448-scaled.jpg", "/20241027_115551-scaled.jpg"],
         text: [
           "Koristi se za osvetljavanje svih vrsta javnih i privatnih spoljašnjih prostora – kao što su ulice, putevi, autoputevi, parkirališta, biciklističke staze, parkovi, stambena naselja, gradska središta i slične površine. Savremeni izgled svetiljki se lepo uklapa u svaki od pomenutih prostora.",
@@ -552,7 +552,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "LED ulična svetiljka LP-U34F",
         slug: "LED-ulicna-svetiljka-LP-U34F",
-        image: "/LP-U34F.png",
+        image: "/LPU 34F.jpg",
         images: [
           "/Zrenjanin beli lampion 2.jpg",
           "/Zrenjanin beli lampion.jpg",
@@ -598,7 +598,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "LED ulična svetiljka LP-U35V",
         slug: "LED-ulicna-svetiljka-LP-U35V",
-        image: "/LP-U35V.png",
+        image: "/LP-U35V slika.jpg",
         images: [
           "/Tuzla-Korzo.jpg",
           "/Tuzla-Korzo-000.jpg",
@@ -659,7 +659,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "Viseća LED svetiljka LP-UFO",
         slug: "Viseca-LED-svetiljka-LP-UFO",
-        image: "/LP-UFO.png",
+        image: "/LP-UFO1.png",
         images: ["/Standard.jpg", "/Standard-hala.jpg", "/Lađevci hala.jpg"],
         text: [
           "Namena joj je prvenstveno za industrijsko osvetljenje, sa mogućnošću neprekidnog rada tokom dugog vremenskog perioda.",
@@ -745,7 +745,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "LED reflektor LPR-28",
         slug: "LED-reflektor-LPR-28",
-        image: "/LPR-28-1.png",
+        image: "/LPR28-1-min.png",
         images: [
           "/Dolina-heroja-Tjentiste-1.jpg",
           "/Tjentiste.-Dolina-heroja.jpg",
@@ -941,7 +941,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "LED Vodootporna linearna svetiljka LPL-72",
         slug: "LED-Vodootporna-linearna-svetiljka-LPL-72",
-        image: "/LPL-72-1.png",
+        image: "/LPL-72-min.png",
         images: [],
         text: [
           "Vodootporna linearna svetiljka namenjena je za vlažne prostore, magacine i spoljašnje okruženje, pogodna za montažu do 4 metra visine.",
@@ -1184,6 +1184,55 @@ export const proizvodi: Proizvodi[] = [
           {
             title: "Tehnički dokument",
             image: "/Luminos-Sadou.pdf",
+          },
+        ],
+      },
+    ],
+  },
+  {
+    title: "LED panik rasveta",
+    slug: "LED-panik-rasveta",
+    image: "/mmexport1674029498159Edited.tif",
+    products: [
+      {
+        title: "LED exit lampa IP65-5W",
+        slug: "LED-exit-lampa-IP65-5W",
+        image: "/mmexport1674029498159Edited.tif",
+        images: [],
+        text: [
+          "Punjiva lampa",
+          "Snaga - 5W",
+          "IP zaštita IP 65",
+          "Zivotni vek - 20,000h",
+          "Montaza na zid",
+          "Dimenzije L355xW115xH95",
+          "Vreme rada baterije 3h",
+        ],
+        docs: [
+          {
+            title: "Tehnicki dokument",
+            image: "/Panik.pdf",
+          },
+        ],
+      },
+      {
+        title: "LED exit lampa IP30-3W",
+        slug: "LED-exit-lampa-IP30-3W",
+        image: "/mmexport1674029504538Edited.tif",
+        images: [],
+        text: [
+          "Punjiva lampa",
+          "Snaga - 3W",
+          "IP zaštita IP 30",
+          "Zivotni vek - 20,000h",
+          "Montaza na plafon",
+          "Dimenzije L360xW23xH200",
+          "Vreme rada baterije 3h",
+        ],
+        docs: [
+          {
+            title: "Tehnicki dokument",
+            image: "/Panik.pdf",
           },
         ],
       },

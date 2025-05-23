@@ -32,7 +32,7 @@ const Page = () => {
         />
       </div>
       <div className="grid md:grid-cols-4 auto-rows-fr gap-6 mt-6 pb-10 md:pb-20 border-b border-primary">
-        {proizvodi.slice(0, 4).map((item, i) => {
+        {proizvodi.slice(0, 5).map((item, i) => {
           return (
             <Link key={i} href={`/proizvodi/${item.slug}`}>
               <motion.div
@@ -87,7 +87,7 @@ const Page = () => {
         />
       </div>
       <div className="grid md:grid-cols-4 auto-rows-fr gap-6">
-        {proizvodi.slice(4).map((item, i) => {
+        {proizvodi.slice(5).map((item, i) => {
           return (
             <Link key={i} href={`/proizvodi/${item.slug}`}>
               <motion.div
