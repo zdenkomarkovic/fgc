@@ -11,8 +11,8 @@ const About2 = () => {
       <div className="container px-2 md:px-4 py-10 md:py-24 mx-auto relative flex flex-col md:flex-row gap-6 md:gap-20 items-center">
         <div className=" md:w-2/3 space-y-3 md:space-y-8">
           <h2 className="">
-            FGC – Zvanični zastupnik za teritoriju Republike Srbije Luminos
-            rasvete za javne i poslovne prostore
+            FGC – Zvanični zastupnik za teritoriju Republike Srbije i Republike
+            Crne Gore Luminos rasvete za javne i poslovne prostore
           </h2>
           <p className=" first-letter:pl-6">
             Firma FGC je ovlašćeni zastupnik renomiranog brenda Luminos, koji se

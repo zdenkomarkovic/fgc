@@ -1195,17 +1195,20 @@ export const proizvodi: Proizvodi[] = [
     image: "/mmexport1674029498159Edited.tif",
     products: [
       {
-        title: "LED exit lampa IP65-5W",
+        title: "LED exit svetiljka IP65-5W",
         slug: "LED-exit-lampa-IP65-5W",
         image: "/mmexport1674029498159Edited.tif",
         images: [],
         text: [
-          "Punjiva lampa",
+          "Punjiva EXIT svetiljka",
           "Snaga - 5W",
           "IP zaštita IP 65",
-          "Zivotni vek - 20,000h",
-          "Montaza na zid",
-          "Dimenzije L355xW115xH95",
+          "Radni napon 110 ~ 265 V / 50-60 Hz",
+          "Stepen električne zaštite II klasa",
+          "Životni vek trajanja 20.000 h",
+          "Montaža: Na zid",
+          "Dimenzije (mm) L355 x W115 x H95",
+          "Kapacitet baterije 3.7 V 1800mAh",
           "Vreme rada baterije 3h",
         ],
         docs: [
@@ -1216,18 +1219,21 @@ export const proizvodi: Proizvodi[] = [
         ],
       },
       {
-        title: "LED exit lampa IP30-3W",
+        title: "LED exit svetiljka IP30-3W",
         slug: "LED-exit-lampa-IP30-3W",
         image: "/mmexport1674029504538Edited.tif",
         images: [],
         text: [
-          "Punjiva lampa",
+          "Punjiva EXIT svetiljka",
           "Snaga - 3W",
           "IP zaštita IP 30",
-          "Zivotni vek - 20,000h",
-          "Montaza na plafon",
-          "Dimenzije L360xW23xH200",
-          "Vreme rada baterije 3h",
+          "Radni napon 165 ~ 245 V / 50-60 Hz",
+          "Stepen električne zaštite II klasa",
+          "Životni vek trajanja 20.000 h",
+          "Montaža: Na plafon",
+          "Dimenzije (mm) L360 x W23 x H200",
+          "Kapacitet baterije 1.2 V",
+          "Vreme rada baterije 3 h",
         ],
         docs: [
           {

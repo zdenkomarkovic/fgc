@@ -32,7 +32,7 @@ const Page = () => {
                     backgroundColor: "#0a0a0a",
                   }}
                   whileTap={{ scale: 0.95 }}
-                  className="p-5 shadow-lg shadow-primary bg-muted-foreground h-full"
+                  className="flex flex-col justify-between p-5 shadow-lg shadow-primary bg-muted-foreground h-full"
                 >
                   <h4 className="text-center">{product.title}</h4>
                   <Image

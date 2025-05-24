@@ -43,7 +43,7 @@ const Page = () => {
                   backgroundColor: "#0a0a0a",
                 }}
                 whileTap={{ scale: 0.95 }}
-                className="p-3 md:p-8 flex flex-col h-full bg-muted-foreground shadow-lg shadow-primary"
+                className="p-3 md:p-8 flex flex-col justify-between h-full bg-muted-foreground shadow-lg shadow-primary"
               >
                 <Image
                   src={item.image}
@@ -52,7 +52,7 @@ const Page = () => {
                   alt="led rasveta"
                   className="w-2/3 mx-auto object-cover"
                 />
-                <div className=" flex flex-col justify-between h-full gap-8">
+                <div className="">
                   <h4 className="text-2xl font-bold text-center ">
                     {item.title}
                   </h4>
