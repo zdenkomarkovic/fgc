@@ -552,7 +552,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "LED ulična svetiljka LP-U34F",
         slug: "LED-ulicna-svetiljka-LP-U34F",
-        image: "/LPU 34F.jpg",
+        image: "/LPU 34F.JPG",
         images: [
           "/Zrenjanin beli lampion 2.jpg",
           "/Zrenjanin beli lampion.jpg",
@@ -598,7 +598,7 @@ export const proizvodi: Proizvodi[] = [
       {
         title: "LED ulična svetiljka LP-U35V",
         slug: "LED-ulicna-svetiljka-LP-U35V",
-        image: "/LP-U35V slika.jpg",
+        image: "/LP-U35V slika.JPG",
         images: [
           "/Tuzla-Korzo.jpg",
           "/Tuzla-Korzo-000.jpg",
