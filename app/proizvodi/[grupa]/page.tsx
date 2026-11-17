@@ -37,8 +37,9 @@ const Page = () => {
                   <h4 className="text-center">{product.title}</h4>
                   <Image
                     src={product.image}
-                    width={2000}
-                    height={2000}
+                    width={500}
+                    height={500}
+                    sizes="(min-width: 768px) 20vw, 60vw"
                     alt="led rasveta"
                     className="w-2/3 mx-auto object-cover"
                   />

@@ -33,7 +33,6 @@ const reference = [
   "Regionalni put Jošanička Banja - Kopaonik, kod mesta Biljanovac",
   "Narodni muzej sa uličnom rasvetom - Čačak",
   "Turistički objekat Cvetnjak - Čačak",
-  "Granični prelaz Sremska Rača",
   "Osnovna škola u Apatinu",
   "Osnovna škola u Adeševcima,",
   "Osnovna škola u mestu Višnjevac",
@@ -56,7 +55,6 @@ const reference = [
   "Deo ulične rasvete, grad Vranje",
   "Ulična rasveta, mesto Pantelej, grad Niš",
   "Vojna kasarna „Mija Stanimirović“ grad Niš",
-  "Vojna kasarna „Filip Kljajić“ grad Niš",
   "Vojni aerodrom, mesto Lađevci, grad Kraljevo",
   "Deo javne rasvete grada Novog Pazara",
   "Stambeni objekti i podzemne garaže, grad Novi Pazar",
@@ -70,6 +68,16 @@ const reference = [
   "Stambeni blok Stadion, grad Prijepolje",
   "Unutrašnja rasveta hale Kraljeva voda mesto Zlatibor, grad Užice",
   "Spoljašnja rasveta mesta Zaovine, planina Tara",
+  "Ulična rasveta ulice Tršova i Lješnjakova, centar grada Bijelo Polje",
+  "Javno osvetljenje opštine Čajetina, planina Zlatibor",
+  "Osvetljenje šetališta u gradu Svrljig",
+  "Osvetljenje fiskulturne sale u gimnaziji, grad Bor",
+  "Osvetljenje sportsko-rekreativnih terena „Orsi“ u Prijepolju",
+  "Osvetljenje arhitektonskog objekta „Sahat-Kula“ u Prijepolju",
+  "Osvetljenje privatne vile na Fruškoj gori",
+  "Osvetljenje parohijskog doma u mestu Sremska Kamenica",
+  "Osvetljenje Saborne crkve „Sveti Nikola“ u mestu Sremski Karlovci",
+  "Osvetljenje privatne destilerije u gradu Bijelo Polje",
 ];
 
 const images = [

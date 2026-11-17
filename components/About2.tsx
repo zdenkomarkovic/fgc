@@ -40,6 +40,7 @@ const About2 = () => {
             src={img}
             width={800}
             height={800}
+            sizes="(min-width: 768px) 50vw, 100vw"
             alt="led rasveta"
             className="object-cover w-full aspect-square"
           />

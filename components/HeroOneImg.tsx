@@ -14,6 +14,8 @@ const Hero = () => {
         src={Hero3}
         alt="slep puric"
         fill
+        sizes="100vw"
+        quality={60}
         className="w-full h-[100dvh] object-cover"
       />
 

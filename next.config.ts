@@ -1,11 +1,11 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  /* config options here */
-
   images: {
-    minimumCacheTTL: 2678400,
+    minimumCacheTTL: 31536000,
     formats: ["image/webp"],
+    deviceSizes: [640, 1080, 1920],
+    imageSizes: [128, 256, 384],
   },
 };
 

@@ -31,6 +31,7 @@ const ImageEditor: React.FC<ImageEditorProps> = ({ images }) => {
           src={images[imageIndex]}
           alt="separe"
           fill
+          sizes="(min-width: 768px) 50vw, 100vw"
           className="object-contain"
         />
         <button
@@ -69,6 +70,7 @@ const ImageEditor: React.FC<ImageEditorProps> = ({ images }) => {
                 src={item}
                 alt={item}
                 fill
+                sizes="160px"
                 className="rounded-xl w-full h-full object-cover"
               />
             </motion.div>

@@ -9,6 +9,8 @@ const BackgroundImage = ({ img }: { img: string | StaticImageData }) => {
         src={img}
         alt="rasveta"
         fill
+        sizes="100vw"
+        quality={60}
         className="w-full h-full  object-cover"
       />
     </div>

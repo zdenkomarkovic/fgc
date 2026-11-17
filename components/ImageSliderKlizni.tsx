@@ -49,6 +49,8 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
               <Image
                 src={src}
                 fill
+                sizes="100vw"
+                quality={60}
                 alt="led rasveta"
                 className="w-full object-cover"
               />
@@ -80,8 +82,10 @@ const ImageSliderKlizni = ({ images }: { images: string[] }) => {
               >
                 <Image
                   src={src}
-                  width={100}
-                  height={100}
+                  width={160}
+                  height={160}
+                  sizes="160px"
+                  quality={60}
                   alt="kupaci bliss"
                   className="w-40 h-40 object-cover"
                 />

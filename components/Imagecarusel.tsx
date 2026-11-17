@@ -73,8 +73,9 @@ const ImageCard = ({ image }: { image: string }) => {
       >
         <Image
           src={image}
-          width={200}
-          height={200}
+          width={400}
+          height={400}
+          sizes="(min-width: 1024px) 33vw, (min-width: 768px) 50vw, 88vw"
           alt="lucky fitnes"
           className=" w-full aspect-square object-cover"
         />
